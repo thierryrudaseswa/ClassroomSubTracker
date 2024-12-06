@@ -1,0 +1,44 @@
+.app {
+  padding: 24px;
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 24px;
+}
+
+.stats-row {
+  margin-bottom: 24px;
+}
+
+.filters {
+  margin-bottom: 24px;
+  display: flex;
+  gap: 16px;
+}
+
+.ant-table {
+  margin-bottom: 24px;
+}
+
+.status-excellent {
+  color: #52c41a;
+  font-weight: bold;
+}
+
+.status-good {
+  color: #1890ff;
+  font-weight: bold;
+}
+
+.status-fair {
+  color: #faad14;
+  font-weight: bold;
+}
+
+.status-poor {
+  color: #f5222d;
+  font-weight: bold;
+} 
